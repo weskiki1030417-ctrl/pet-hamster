@@ -1,0 +1,25 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="cykxxV``i.#294Bk6oM^" x="198" y="-537"><statement name="HANDLER"><block type="device_show_leds" id="(*VKzem@R!9_%I_Oat+8"><field name="LEDS">`
+        . # # . # 
+        . # . # . 
+        . # # . . 
+        . # . # . 
+        . # . . #
+        `</field><next><block type="device_show_leds" id="TlLNnGd1`N?!(ZbW8%hu"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # #
+        `</field><next><block type="device_show_leds" id="SFhXHchWCG/j%_,uJ)YP"><field name="LEDS">`
+        . # . . # 
+        . # . # . 
+        . # # . . 
+        . # . # . 
+        . # . . #
+        `</field><next><block type="device_show_leds" id="4|}u3rzn6)4Q-`Q8EE.m"><field name="LEDS">`
+        # # # # # 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        # # # # #
+        `</field></block></next></block></next></block></next></block></statement></block><block type="device_button_event" id="E;y,@Oz4JeL^:X@@BzH(" x="440" y="-123"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="basic_show_icon" id="Dv8r]/{9PNcRtpk6ob/P"><field name="i">IconNames.Sad</field><next><block type="music_playable_play_default_bkg" id=".VWS|B!67Gn[b=tE33K="><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="GHGtLLx4!g,7w_t4L#L["><field name="melody">Melodies.Dadadadum</field></shadow><block type="device_builtin_melody_playable" id="R_,*X.FP?HJbv:_^KsUr"><field name="melody">Melodies.Dadadadum</field></block></value><next><block type="basic_show_icon" id=".tvG846~:P?gW|?{!UL`"><field name="i">IconNames.Asleep</field></block></next></block></next></block></statement></block><block type="device_button_event" id="/^IU^%eQ]`!QA7}=Z9^c" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="basic_show_icon" id="@[`A`9^~l+rFmvSbL~,Q"><field name="i">IconNames.Happy</field><next><block type="music_playable_play_default_bkg" id="4S]4vX9aNR)L=G;Pq%CW"><field name="playbackMode">music.PlaybackMode.UntilDone</field><value name="toPlay"><shadow type="device_builtin_melody_playable" id="6fzB2NkoGtKc,sC|RpZ|"><field name="melody">Melodies.JumpUp</field></shadow></value><next><block type="basic_show_icon" id="xpGk(A0vgcm*q;GpCyu{"><field name="i">IconNames.Asleep</field></block></next></block></next></block></statement></block></xml>
